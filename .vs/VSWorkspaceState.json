@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\components",
+    "\\client\\src\\components\\fonts",
+    "\\client\\src\\components\\mapSection",
+    "\\client\\src\\components\\statsSection",
+    "\\server"
+  ],
+  "SelectedNode": "\\client\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}

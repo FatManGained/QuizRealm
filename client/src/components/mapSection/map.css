@@ -1,0 +1,575 @@
+.map_holder {
+    width: auto;
+    width: auto;
+    align-items: center;
+    position: relative;
+}
+
+.map_image {
+    width: 100%;
+}
+
+
+
+#map_region01 {
+    position: absolute;
+    width: 14%;
+    top: 82.5%;
+    left: 86%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(0deg) brightness(119%);
+}
+
+#map_region02 {
+    position: absolute;
+    width: 16.7%;
+    top: 86.7%;
+    left: 75%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(0deg) brightness(119%);
+}
+
+#map_region03 {
+    position: absolute;
+    width: 13.5%;
+    top: 70.4%;
+    left: 86.7%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(0deg) brightness(119%);
+}
+
+#map_region04 {
+    position: absolute;
+    width: 14.5%;
+    top: 81.6%;
+    left: 66%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region05 {
+    position: absolute;
+    width: 16.5%;
+    top: 67.6%;
+    left: 79%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region06 {
+    position: absolute;
+    width: 12.1%;
+    top: 54.3%;
+    left: 88%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region07 {
+    position: absolute;
+    width: 15.1%;
+    top: 80.3%;
+    left: 53.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region08 {
+    position: absolute;
+    width: 14.5%;
+    top: 74.3%;
+    left: 58.5%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region09 {
+    position: absolute;
+    width: 19.8%;
+    top: 66.0%;
+    left: 61.1%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region10 {
+    position: absolute;
+    width: 13.5%;
+    top: 53.2%;
+    left: 74.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region11 {
+    position: absolute;
+    width: 15.9%;
+    top: 83.3%;
+    left: 38.5%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region12 {
+    position: absolute;
+    width: 20.9%;
+    top: 83.5%;
+    left: 24.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(600deg) brightness(119%);
+}
+
+#map_region13 {
+    position: absolute;
+    width: 15.3%;
+    top: 73.7%;
+    left: 11.0%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region14 {
+    position: absolute;
+    width: 17.7%;
+    top: 78.7%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region15 {
+    position: absolute;
+    width: 13.7%;
+    top: 69.4%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region16 {
+    position: absolute;
+    width: 14.7%;
+    top: 67.2%;
+    left: 10%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region17 {
+    position: absolute;
+    width: 17.5%;
+    top: 60.2%;
+    left: 24%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region18 {
+    position: absolute;
+    width: 26.8%;
+    top: 70.2%;
+    left: 27.5%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region19 {
+    position: absolute;
+    width: 11.3%;
+    top: 66.0%;
+    left: 51.6%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region20 {
+    position: absolute;
+    width: 14.9%;
+    top: 63.6%;
+    left: 40.2%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region21 {
+    position: absolute;
+    width: 10.9%;
+    top: 61.3%;
+    left: 6.6%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region22 {
+    position: absolute;
+    width: 10.3%;
+    top: 56.9%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(1352%) hue-rotate(87deg) brightness(119%);
+}
+
+#map_region23 {
+    position: absolute;
+    width: 13.0%;
+    top: 48.1%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region24 {
+    position: absolute;
+    width: 12.3%;
+    top: 54.9%;
+    left: 6.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region25 {
+    position: absolute;
+    width: 16.3%;
+    top: 57.7%;
+    left: 15.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region26 {
+    position: absolute;
+    width: 23.3%;
+    top: 50.3%;
+    left: 34.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region27 {
+    position: absolute;
+    width: 21.3%;
+    top: 47.0%;
+    left: 48.5%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region28 {
+    position: absolute;
+    width: 8.2%;
+    top: 48.6%;
+    left: 68.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region29 {
+    position: absolute;
+    width: 15.9%;
+    top: 42.6%;
+    left: 57.6%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region30 {
+    position: absolute;
+    width: 19.5%;
+    top: 43.2%;
+    left: 73.6%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region31 {
+    position: absolute;
+    width: 14.6%;
+    top: 40.2%;
+    left: 85.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region32 {
+    position: absolute;
+    width: 19.6%;
+    top: 26.6%;
+    left: 80.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region33 {
+    position: absolute;
+    width: 9.6%;
+    top: 13.6%;
+    left: 90.4%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region34 {
+    position: absolute;
+    width: 10.6%;
+    top: 4%;
+    left: 82.6%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region35 {
+    position: absolute;
+    width: 10.6%;
+    top: 4.3%;
+    left: 76.9%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region36 {
+    position: absolute;
+    width: 11.6%;
+    top: 17.2%;
+    left: 75.2%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region37 {
+    position: absolute;
+    width: 16.6%;
+    top: 0%;
+    left: 60.2%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region38 {
+    position: absolute;
+    width: 17.4%;
+    top: 11.2%;
+    left: 58.5%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region39 {
+    position: absolute;
+    width: 13.3%;
+    top: 25.0%;
+    left: 68.7%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region40 {
+    position: absolute;
+    width: 11.0%;
+    top: 0%;
+    left: 50.9%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region41 {
+    position: absolute;
+    width: 14.3%;
+    top: 8.4%;
+    left: 45.9%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region42 {
+    position: absolute;
+    width: 16.6%;
+    top: 21.0%;
+    left: 49.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region43 {
+    position: absolute;
+    width: 19.6%;
+    top: 30%;
+    left: 50.7%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region44 {
+    position: absolute;
+    width: 13.3%;
+    top: 32.8%;
+    left: 40.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region45 {
+    position: absolute;
+    width: 13.3%;
+    top: 23.8%;
+    left: 39.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region46 {
+    position: absolute;
+    width: 14.1%;
+    top: 8.6%;
+    left: 39.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region47 {
+    position: absolute;
+    width: 15.1%;
+    top: 0%;
+    left: 36.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region48 {
+    position: absolute;
+    width: 14.8%;
+    top: 9%;
+    left: 31.2%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region49 {
+    position: absolute;
+    width: 13.5%;
+    top: 20.7%;
+    left: 31.2%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region50 {
+    position: absolute;
+    width: 18.2%;
+    top: 28.8%;
+    left: 26.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region51 {
+    position: absolute;
+    width: 10.2%;
+    top: 41.2%;
+    left: 31.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region52 {
+    position: absolute;
+    width: 6.5%;
+    top: 49.6%;
+    left: 28%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region53 {
+    position: absolute;
+    width: 12.2%;
+    top: 47.6%;
+    left: 17.6%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region54 {
+    position: absolute;
+    width: 10%;
+    top: 39.3%;
+    left: 19%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region55 {
+    position: absolute;
+    width: 24%;
+    top: 29.4%;
+    left: 6.8%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region56 {
+    position: absolute;
+    width: 14.3%;
+    top: 37.7%;
+    left: 7.5%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region57 {
+    position: absolute;
+    width: 8.7%;
+    top: 36.5%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region58 {
+    position: absolute;
+    width: 9.2%;
+    top: 17.0%;
+    left: 23.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region59 {
+    position: absolute;
+    width: 10%;
+    top: 26.6%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region60 {
+    position: absolute;
+    width: 15.6%;
+    top: 21.0%;
+    left: 8.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region61 {
+    position: absolute;
+    width: 8.6%;
+    top: 16.8%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region62 {
+    position: absolute;
+    width: 6.3%;
+    top: 5.8%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region63 {
+    position: absolute;
+    width: 15.3%;
+    top: 11.5%;
+    left: 3.9%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region64 {
+    position: absolute;
+    width: 13.3%;
+    top: 7.1%;
+    left: 19.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region65 {
+    position: absolute;
+    width: 14.3%;
+    top: 6.5%;
+    left: 11.3%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region66 {
+    position: absolute;
+    width: 10.4%;
+    top: 0.5%;
+    left: 5.6%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region67 {
+    position: absolute;
+    width: 9.3%;
+    top: 0%;
+    left: 0%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region68 {
+    position: absolute;
+    width: 15.8%;
+    top: 0%;
+    left: 9.5%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region69 {
+    position: absolute;
+    width: 14.8%;
+    top: 0%;
+    left: 23.7%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}
+
+#map_region70 {
+    position: absolute;
+    width: 7.75%;
+    top: 0%;
+    left: 92.1%;
+    filter: invert(42%) sepia(93%) saturate(13522%) hue-rotate(700deg) brightness(119%);
+}

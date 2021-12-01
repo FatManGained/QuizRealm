@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:svg="http://www.w3.org/2000/svg" xmlns="http://www.w3.org/2000/svg" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" sodipodi:docname="region22.svg" inkscape:version="1.0 (4035a4f, 2020-05-01)" id="svg1562" version="1.1" viewBox="0 0 26.382187 25.400539" height="25.400539mm" width="26.382187mm">
+  <defs id="defs1556" />
+  <sodipodi:namedview inkscape:window-maximized="0" inkscape:window-y="25" inkscape:window-x="0" inkscape:window-height="776" inkscape:window-width="1252" showgrid="false" inkscape:document-rotation="0" inkscape:current-layer="layer1" inkscape:document-units="mm" inkscape:cy="79.429554" inkscape:cx="205.78431" inkscape:zoom="0.35" inkscape:pageshadow="2" inkscape:pageopacity="0.0" borderopacity="1.0" bordercolor="#666666" pagecolor="#ffffff" id="base" />
+  <metadata id="metadata1559">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g transform="translate(-51.386236,-127.15093)" id="layer1" inkscape:groupmode="layer" inkscape:label="Lager 1">
+    <path id="path1545" d="m 51.554568,133.06024 1.187687,-0.40729 1.757995,-1.13489 1.247788,-1.36182 3.005783,-1.58873 2.15513,-0.79438 1.701368,-0.45393 4.537019,0.0568 3.06594,1.9299 1.871597,1.53202 1.871507,2.04272 2.325177,2.15617 1.247843,1.41812 -3.403665,2.89262 -1.077505,1.24834 -0.396961,1.81575 -0.510466,3.46125 -0.737289,1.81575 -1.077506,1.1348 -1.134276,2.04268 -0.793249,1.07934 -0.908034,-0.73802 -2.155217,-0.51067 h -3.62959 l -1.984932,0.45396 -2.722309,0.28385 -2.268465,0.39719 -1.871594,0.17002 -1.249438,0.33147 z" style="opacity:0.18;fill:#ff0000;stroke:#ff0015;stroke-width:0.335987;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1" />
+  </g>
+</svg>
